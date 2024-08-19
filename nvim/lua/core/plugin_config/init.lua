@@ -1,0 +1,6 @@
+require("core.plugin_config.lualine")
+require("core.plugin_config.nvim-tree")
+require("core.plugin_config.rust-config")
+require("core.plugin_config.mason")
+require("core.plugin_config.tree-sitter")
+require("core.plugin_config.catppuccin")
